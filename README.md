@@ -1,5 +1,7 @@
 # Business AI Automation Suite
 
+![Business AI Automation Suite](./assets/business-ai-automation-suite.png)
+
 A portfolio collection of three Make.com automation projects designed for real business workflows across Sales, Customer Support, and Finance Operations.
 
 ## Projects
