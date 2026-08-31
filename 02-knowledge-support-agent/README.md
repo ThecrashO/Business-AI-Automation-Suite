@@ -44,4 +44,6 @@ This automation receives a user question, retrieves relevant information from a 
 
 ## Screenshots
 
+![Knowledge Support Agent Workflow](../assets/knowledge-support-agent-workflow.png)
+
 Workflow screenshots and architecture visuals will be added here.
