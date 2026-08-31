@@ -47,5 +47,3 @@ View the original standalone project here:
 ## Screenshots
 
 ![Lead Qualification Agent Workflow](../assets/lead-qualification-agent-workflow.png)
-
-Workflow screenshots and architecture visuals will be added here.
