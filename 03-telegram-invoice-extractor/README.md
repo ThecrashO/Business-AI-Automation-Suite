@@ -46,4 +46,5 @@ This automation allows users to send invoice files through Telegram. The workflo
 
 ## Screenshots
 
-Workflow screenshots and architecture visuals will be added here.
+![Telegram Invoice Extractor Workflow](../assets/telegram-invoice-extractor-workflow.png)
+
